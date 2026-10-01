@@ -1,0 +1,11 @@
+Fault: High Vibration
+
+Possible Causes:
+Wheel imbalance, loose mechanical components,
+bearing problems, track irregularities.
+
+Inspection:
+Check wheels, bearings and mechanical components.
+
+Recommended Action:
+Inspect the affected components and continue monitoring.
